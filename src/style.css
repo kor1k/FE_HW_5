@@ -1,0 +1,184 @@
+* {
+    font-family: Arimo, sans-serif;
+    text-decoration: none;
+    list-style: none;
+}
+
+body {
+    /*background-color: #091848;*/
+    background-color: navy;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+td {
+    background-color:  #f2f2f2;
+    width: 270px;
+    height: 60px;
+}
+
+tr {
+    background-color: red;
+}
+
+table {
+    margin: 20px;
+
+}
+
+.standart_td_title {
+    background-color:  #89c331;
+    height: 40px;
+}
+
+.standart_title {
+    color:  #ffffff;
+    font-size: 24px;/* Приближение из-за подстановки шрифтов */
+    font-weight: 700;
+    line-height: 28px;/* Приближение из-за подстановки шрифтов */
+    text-align: center;
+}
+
+.ultimate_td_title {
+    background-color:  #f04a56;
+}
+
+.ultimate_title {
+    color:  #ffffff;
+    font-size: 30px;/* Приближение из-за подстановки шрифтов */
+    font-weight: 700;
+    line-height: 28px;/* Приближение из-за подстановки шрифтов */
+    text-align: center;
+}
+
+.premium_td_title {
+    background-color:  #20807c;
+}
+
+.premium_title {
+    color:  #ffffff;
+    font-size: 24px;/* Приближение из-за подстановки шрифтов */
+    font-weight: 700;
+    line-height: 28px;/* Приближение из-за подстановки шрифтов */
+    text-align: center;
+}
+
+.choose_your_text {
+    /*font-family: Arimo;*/
+    padding-top: 40px;
+    color:  #484848;
+    font-size: 18px;/* Приближение из-за подстановки шрифтов */
+    font-weight: 700;
+    line-height: 28px;/* Приближение из-за подстановки шрифтов */
+    text-align: center;
+}
+
+.pricing_plan_text {
+    padding-bottom: 78px;
+    color:  #484848;
+    font-size: 30px;/* Приближение из-за подстановки шрифтов */
+    font-weight: 700;
+    line-height: 28px;/* Приближение из-за подстановки шрифтов */
+    text-align: center;
+}
+
+.price_massive {
+    color:  #484848;
+    font-size: 60px;/* Приближение из-за подстановки шрифтов */
+    font-weight: 700;
+    line-height: 28px;/* Приближение из-за подстановки шрифтов */
+    text-align: left;
+}
+
+.contact_us_btn {
+    border-radius: 5px;
+    background-color:  #484848;
+    width: 192px;
+    height: 49px;
+    color: white;
+    margin-left: 30px;
+    font-size: 15px;
+}
+
+.buy_now_1_btn {
+    border-radius: 5px;
+    background-color:  #89c331;
+    width: 192px;
+    height: 49px;
+    color: white;
+    margin-left: 30px;
+    font-size: 15px;
+}
+
+.buy_now_2_btn {
+    border-radius: 5px;
+    background-color:  #f04a56;
+    width: 192px;
+    height: 49px;
+    color: white;
+    margin-left: 30px;
+    font-size: 15px;
+}
+
+.buy_now_3_btn {
+    border-radius: 5px;
+    background-color:  #20807c;
+    width: 192px;
+    height: 49px;
+    text-align: center;
+    color: white;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 30px;
+    font-size: 15px;
+}
+
+.text_in_td_centered {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo_margin {
+    margin-right: 10px;
+}
+
+/*.pricing_plan {*/
+    /*margin-bottom: 100px;*/
+/*}*/
+
+.standart_price_amount {
+
+}
+
+.price_massive {
+    display: inline-block;
+}
+
+.price_thin {
+    display: inline-block;
+    color:  #484848;
+    font-size: 24px;/* Приближение из-за подстановки шрифтов */
+    font-weight: 700;
+    line-height: 28px;/* Приближение из-за подстановки шрифтов */
+    text-align: center;
+    margin-top: 90px;
+}
+
+.price_anatation {
+    display: inline-block;
+    color:  #484848;
+    font-size: 18px;/* Приближение из-за подстановки шрифтов */
+    font-weight: 400;
+    line-height: 28px;/* Приближение из-за подстановки шрифтов */
+    text-align: center;
+}
+
+.gray_bc {
+    background-color: #e3e3e3;
+}
+
+.lightgray_bc {
+    background-color: #ececec;
+}
